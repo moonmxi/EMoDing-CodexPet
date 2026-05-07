@@ -1,5 +1,7 @@
 # 恶魔叮 Codex Pet
 
+![恶魔叮 Codex Pet](assets/emoding-preview.png)
+
 这是一个 Codex 自定义宠物，形象来自《洛克王国世界》中的恶魔叮。
 
 ## 目录结构
