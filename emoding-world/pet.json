@@ -1,6 +1,6 @@
 {
-  "id": "emoding-world-fixed",
-  "displayName": "\u6076\u9b54\u53ee \u4fee\u590d\u7248",
+  "id": "emoding-world",
+  "displayName": "\u6076\u9b54\u53ee",
   "description": "《洛克王国世界》中的恶魔叮形象。",
   "spritesheetPath": "spritesheet.webp"
 }
